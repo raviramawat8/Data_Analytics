@@ -1,0 +1,5 @@
+Q1. What were the total sales under each cataogry of items?
+Q2. Which subcategory of items sold the maximum under each catagory?
+Q3. Which were the top 3 states from each region that makes the highest avg profit?
+Q4. What is the percentage contribution of each subcategory of products under each catagory to the total sales?
+Q5. Which customer made the lowest profit in the Home Office segment in each State?
